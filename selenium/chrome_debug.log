@@ -22,3 +22,12 @@
 [28723:63459:1213/113822.831201:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
 [28723:169363:1213/130759.136654:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
 [28723:169363:1213/130800.594624:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[28723:169375:1213/144905.738023:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[28723:169375:1213/144906.648527:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[28723:169375:1213/153310.742571:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[28723:169375:1213/153315.563761:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[28723:169375:1213/160107.775688:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[28723:28575:1213/160112.564350:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[28723:28575:1213/163113.057775:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[28723:28575:1213/163115.690860:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[28723:259:1213/171935.234123:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
