@@ -33,3 +33,11 @@
 [49148:168039:1214/124849.092647:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
 [49148:168039:1214/140612.052257:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
 [49148:168039:1214/140612.630092:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:28683:1214/152122.616392:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:28683:1214/152123.379070:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:28683:1214/154926.496712:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:28683:1214/154927.277629:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:72063:1214/160345.330267:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:72063:1214/160345.729971:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:72063:1214/170552.148395:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:72063:1214/170554.165072:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
