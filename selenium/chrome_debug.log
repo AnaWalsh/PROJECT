@@ -1,33 +1,23 @@
-[28723:34819:1211/114426.654322:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
-[28723:34819:1211/114426.655562:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
-[28723:34819:1211/114426.655618:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
-[28723:34819:1211/114426.656123:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
-[28723:61443:1212/140348.751367:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:61443:1212/140349.719183:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:133511:1213/085442.828821:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:133511:1213/085451.193201:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:133511:1213/090328.959291:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:63459:1213/090330.363109:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:63459:1213/090600.040943:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:63459:1213/090600.800640:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:34919:1213/090701.209479:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:34919:1213/090702.231269:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:63459:1213/093618.053001:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:63459:1213/093619.043364:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:63459:1213/103549.765321:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:63459:1213/103551.538957:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:63459:1213/111532.684650:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:63459:1213/111534.160990:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:63459:1213/113821.964028:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:63459:1213/113822.831201:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:169363:1213/130759.136654:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:169363:1213/130800.594624:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:169375:1213/144905.738023:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:169375:1213/144906.648527:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:169375:1213/153310.742571:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:169375:1213/153315.563761:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:169375:1213/160107.775688:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:28575:1213/160112.564350:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:28575:1213/163113.057775:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:28575:1213/163115.690860:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
-[28723:259:1213/171935.234123:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[49148:27395:1213/232821.288786:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[49148:27395:1213/232821.291524:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+[49148:27395:1213/232821.291558:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[49148:27395:1213/232821.292216:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+[49148:81723:1214/082053.976632:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:81723:1214/082144.047188:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:81723:1214/082405.557692:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:121491:1214/085747.045783:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:27439:1214/090453.723305:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:27439:1214/090454.424972:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:53027:1214/093943.840347:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:56107:1214/093946.378690:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:56107:1214/094014.952556:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:56107:1214/094015.671852:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:56107:1214/094533.198804:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:56107:1214/094534.894269:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:259:1214/100648.063097:INFO:CONSOLE(0)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: chrome://resources/roboto/roboto-regular.woff2", source: chrome://new-tab-page/ (0)
+[49148:136379:1214/103137.743036:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:22079:1214/103138.972652:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:136379:1214/103253.893615:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:136379:1214/103255.290429:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:167983:1214/104511.263356:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
+[49148:167983:1214/104512.570234:WARNING:dns_config_service_posix.cc(197)] Failed to read DnsConfig.
